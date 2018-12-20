@@ -1,0 +1,8 @@
+english = 70
+math = 85
+history = 80
+science = 80
+
+average = (english + math + history + science) / 4
+
+print(average)
